@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameMode.h"
-#include "BoidsSpawner.h"
+#include "Actors/BoidsSpawner.h"
 #include "BoidsBase.generated.h"
 
 /**

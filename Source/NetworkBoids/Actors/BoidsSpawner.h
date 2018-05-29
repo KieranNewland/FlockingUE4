@@ -5,8 +5,8 @@
 #include "Engine.h"
 #include "GameFramework/Actor.h"
 #include "BoidsActor.h"
-#include "Boids/BoidsTarget.h"
-#include "Boids/BoidsObstacle.h"
+#include "World/BoidsTarget.h"
+#include "World/BoidsObstacle.h"
 #include "BoidsSpawner.generated.h"
 
 UCLASS()

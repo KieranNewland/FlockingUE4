@@ -4,7 +4,7 @@
 
 #include "Engine.h"
 #include "GameFramework/Actor.h"
-#include "Boids/BoidsObstacle.h"
+#include "World/BoidsObstacle.h"
 #include "BoidsActor.generated.h"
 
 UCLASS()
